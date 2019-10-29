@@ -7,7 +7,7 @@
         <dependent-module archiveName="cms-common-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/cms-common/cms-common">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <property name="context-root" value="wangting-cms"/>
-        <property name="java-output-path" value="/wangting-cms/target/classes"/>
+        <property name="context-root" value="hanbo-cms"/>
+        <property name="java-output-path" value="/hanbo-cms/target/classes"/>
     </wb-module>
 </project-modules>
